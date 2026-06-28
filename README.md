@@ -142,11 +142,11 @@ pikachu-ai-agent/
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) or open a pull request.
 
 ---
-'''
+```
    Author- Mohd.Afzal
    B.tech-CSE
    Specialization in AI/ML
-'''
+```
 
 ---
 ## 📄 License
