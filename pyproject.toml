@@ -1,7 +1,7 @@
 [project]
 name = "pikachu"
 version = "0.1.0"
-description = "Add your description here"
+description = "My first agent using gemini api"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
